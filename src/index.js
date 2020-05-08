@@ -3,6 +3,7 @@ const cors = require('cors')
 const routes = require('./routes')
 const app = express()
 // No caso de estar em produção
+
 // app.use(cors({
 //   origin:'http://meuapp.com'
 // }))
