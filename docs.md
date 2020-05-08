@@ -38,3 +38,5 @@
 ou
     const count = await connection('incidents').count()
 count[0]
+
+cors instalado
