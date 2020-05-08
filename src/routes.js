@@ -18,3 +18,5 @@ routes.get('/profile', ProfileController.index)
 
 
 module.exports = routes
+
+// aula 02 = 1:24:27

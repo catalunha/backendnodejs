@@ -33,3 +33,8 @@
  * Query Builder: table('users').select('*').where(
  * knexjs)
  */
+
+     const [count] = await connection('incidents').count()
+ou
+    const count = await connection('incidents').count()
+count[0]
